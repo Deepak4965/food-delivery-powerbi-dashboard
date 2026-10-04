@@ -191,7 +191,7 @@ business teams:
 
 ## 👨‍💻 Author
 
-**Your Name**
+DEEPAK
 
 Data Analyst | Power BI | SQL | Excel | Python
 
