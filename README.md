@@ -158,22 +158,28 @@ business teams:
 ## 📸 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Dashboard_Screenshots/01_Executive_Overview.png)
+
+![Executive Overview](./01_Executive_Overview.png)
 
 ### Customer Analytics
-![Customer Analytics](Dashboard_Screenshots/02_Customer_Analytics.png)
+
+![Customer Analytics](./02_Customer_Analytics.png)
 
 ### Delivery & Operations
-![Delivery Operations](Dashboard_Screenshots/03_Delivery_Operations.png)
+
+![Delivery Operations](./03_Delivery_Operations.png)
 
 ### Restaurant Performance
-![Restaurant Performance](Dashboard_Screenshots/04_Restaurant_Performance.png)
+
+![Restaurant Performance](./04_Restaurant_Performance.png)
 
 ### Restaurant Details
-![Restaurant Details](Dashboard_Screenshots/05_Restaurant_Details.png)
+
+![Restaurant Details](./05_Restaurant_Details.png)
 
 ### Advanced Insights
-![Advanced Insights](Dashboard_Screenshots/06_Advanced_Insights.png)
+
+![Advanced Insights](./06_Advanced_Insights.png)
 
 ## 🚀 How to Use
 
